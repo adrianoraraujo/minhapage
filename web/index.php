@@ -33,7 +33,7 @@ experiência na área de automação e robótica, sou um entusiasta
 <td><div><h3><p style="text-align: justify;">
 <p></p>Graduando  em  Engenharia  de Software  e com  larga  experiência  nas  áreas<br/> 
 de  automação  e  robótica, sou um  entusiasta  da  área de IOT e da  cultura<br/> 
-Maker. Tenho  paixão  por  criar,  e  codificar  soluções  inteligêntes  para resolver<br/> 
+Maker. Tenho  paixão  por  criar,  e  codificar  soluções  inteligentes  para resolver<br/> 
 problemas  diversos.  Meu  mantra  de  cada  dia  é: "Quem  não  vive  para servir,  não <br/> 
 serve para  viver." (Autor Desconhecido).<br/> 
 Nesse  site  você  irá  encontrar  um  pouco sobre mim e sobre meus projetos,<br/> 

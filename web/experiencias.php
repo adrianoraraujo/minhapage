@@ -28,12 +28,12 @@
 <tr>
 <td><p><form>INFRAERO<br/><br/>
 PSA Fiscal de Pátio e Pistas Substituto de Encarregado de Pátio<br/><br/>  
-Período 2012 2017<br/><br/>
+Período 2012-2017<br/><br/>
 Fiscalização e inspeção de pátios e pistas, controle de tráfego nos pátios docagem de aeronaves acoplagem  e desacoplagem de pontes telescópicas<br/><br/>
 --------------------------------------------------<br/><br/>
 SENAI CIMATEC<br/><br/>
 Professor técnico<br/><br/>
-Período 2011 2017<br/><br/>
+Período 2011-2017<br/><br/>
 Ministrar treinamentos e cursos técnicos nas áreas de mecânica e automação<br/><br/>
 ------------------------------------------------<br/><br/>
 VIAMATIC<br/><br/>
@@ -48,7 +48,7 @@ Principais atribuições Professor de Eletroeletrônica Técnicas de Soldagem De
 --------------------------------------------------<br/><br/>
 AASDAP<br/><br/>
 Coordenador de Oficina<br/><br/>
-Período 2010 2011<br/><br/>
+Período 2010-2011<br/><br/>
 Coordenação da Oficina de Ciência e Robótica num trabalho com crianças do ensino fundamental ao ensino médio<br/><br/>
 --------------------------------------------------<br/><br/>
 Colégio Estadual Vale dos Lagos<br/><br/>
@@ -63,20 +63,20 @@ Principais atribuições Estágio na área de engenharia auxiliava na análise e
 --------------------------------------------------<br/><br/>
 GOL Linhas Aéreas<br/><br/>
 Agente de Aeroporto<br/><br/>
-Período 2006 2008<br/><br/>
+Período 2006-2008<br/><br/>
 Atendimento de voos em solo check in e despacho operacional<br/><br/></form></p></td>
 <br/><br/>
-<td><p><form>2005 trabalho autônomo com captação e tratamento de áudio<br/><br/>
-2005 trabalho autônomo com manutenção de micros<br/><br/>
-2009 Gravação edição mixagem e masterização de áudio digital<br/><br/>
-2009 Trabalho autônomo no desenvolvimento de sistemas de automação residencial<br/><br/>
-2015 2017  Professor de Jiu-jitsu e Judô ministrando aulas para crianças e adultos<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></form></p></td>
+<td><p><form>2005 - Trabalho autônomo com captação e tratamento de áudio<br/><br/>
+2005 - Trabalho autônomo com manutenção de micros<br/><br/>
+2009 - Gravação edição mixagem e masterização de áudio digital<br/><br/>
+2009 - Trabalho autônomo no desenvolvimento de sistemas de automação residencial<br/><br/>
+2015-2018 - Professor de Jiu-jitsu e Judô ministrando aulas para crianças e adultos<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></form></p></td>
 <td><p><form>2007 Desenvolvimento de programas com braço robótico MELFA da FTC relacionado à área de manufatura e produção<br/><br/>
-2007 Desenvolvimento de um protótipo autônomo para competição no sumô de robôs baiano<br/><br/>
-2009 Desenvolvimento de um braço biônico<br/><br/>
-2012 Desenvolvimento de um gerador eólico vertical<br/><br/>
-2017 Desenvolvimento de um App DAPNE dispositivo de acessibilidade para portadores de necessidades especiais em tablet<br/><br/>
-2018 Desenvolvimento de um robô em formato de serpente SNAKEROBOT com o grupo McGivertronics para acessar áreas de desabamentos, dutos, ou minas<br/><br/>
+2007 - Desenvolvimento de um protótipo autônomo para competição no sumô de robôs baiano<br/><br/>
+2009 - Desenvolvimento de um braço biônico<br/><br/>
+2012 - Desenvolvimento de um gerador eólico vertical<br/><br/>
+2017 - Desenvolvimento de um App DAPNE dispositivo de acessibilidade para portadores de necessidades especiais em tablet<br/><br/>
+2018 - Desenvolvimento de um robô em formato de serpente SNAKEROBOT com o grupo McGivertronics para acessar áreas de desabamentos, dutos, ou minas<br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></form></p></td>
 
 </tr>

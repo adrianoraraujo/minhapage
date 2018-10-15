@@ -5,7 +5,8 @@
 		<ul>
                       <li><a href="#">Celular:(71)992074646</a></li>
 					  <li><a href="#">Telefone:(71)33935369</a></li>
-					  <li><a href="https://goo.gl/forms/aOncx34YWAx1Ypjq1"> click aqui e me mande um email</a></li>
+					  <li><a href="https://goo.gl/forms/aOncx34YWAx1Ypjq1">Mensagem</a></li>
+					  <li><a href="https://www.instagram.com/adrianoaraujo7665/?hl=pt-br">Instagram</a></li>
 
                      </ul>
 		</li>
