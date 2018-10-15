@@ -52,8 +52,8 @@
 <p></p>
 <table border="0">
 <tr>
-<th style="width: 100px; padding-left: 60px;"><form><img src="linguagens.png" align= "center" alt="Foto" title="Foto" height="300" width="550"/></form></th>
-<th style="width: 100px; padding-left: 60px;"><form><img src="idiomas.png" align= "center" alt="Foto" title="Foto" height="300" width="550"/></form></th>
+<th style="width: 100px; padding-left: 60px;"><form><img src="linguagens.jpg" align= "center" alt="Foto" title="Foto" height="300" width="550"/></form></th>
+<th style="width: 100px; padding-left: 60px;"><form><img src="idiomas.jpg" align= "center" alt="Foto" title="Foto" height="300" width="550"/></form></th>
 </tr>
 </table>  
 </body>
