@@ -270,23 +270,8 @@ Seja muito bem vindo.</p>
       <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  adrianoraraujo@gmail.com</p>
     </div>
     <div class="w3-col m7">
-      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="enviar.php" method="post" ><!--target="_blank"-->
-      <div class="w3-section">      
-        <label>Nome</label>
-        <input class="w3-input" type="text" name="nome" required>
-      </div>
-      <div class="w3-section">      
-        <label>Email</label>
-        <input class="w3-input" type="email" name="email" required>
-      </div>
-      <div class="w3-section">      
-        <label>Mensagem</label>
-        <input class="w3-input" type="text" name="mensagem" required>
-      </div>  
-      <input class="w3-check" type="checkbox" checked name="Like">
-      <label>Curti!</label>
-      <button type="submit" class="w3-button w3-right w3-theme">Enviar</button>
-      </form>
+      <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/viewform?embedded=true" width="445" height="317" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/viewform?embedded=true" 
+      width="445" height="317" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div>
   </div>
 </div>
