@@ -270,7 +270,7 @@ Seja muito bem vindo.</p>
       <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  adrianoraraujo@gmail.com</p>
     </div>
     <div class="w3-col m7">
-      <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/viewform?embedded=true" width="445" height="317" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/viewform?embedded=true" 
+      </iframe><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/viewform?embedded=true" 
       width="445" height="317" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div>
   </div>
