@@ -290,6 +290,7 @@ Seja muito bem vindo.</p>
   <a class="" href="https://github.com/adrianoraraujo" title="Github"><i class="fa fa-briefcase w3-hover-opacity"></i></a>
  
   <p>Desenvolvido por Adriano Araújo </p>
+  <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://adrianoraraujo.herokuapp.com/index.php&digit=style/plain/2/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://magmatranslation.com/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
 </footer>
 <script>
 // Script for side navigation
