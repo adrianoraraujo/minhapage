@@ -44,13 +44,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <!--<a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
   <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>-->
-  <div class="w3-dropdown-hover w3-hide-small">
+  <div class="w3-dropdown-hover w3-hide-small"  > <!-- w3-hide-small" -->
     <button class="w3-button" title="Notifications">Meus Projetos <i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
     </div>
   </div>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-teal" title="Search"><i class="fa fa-search"></i></a>
+ 
  </div>
 
   <!-- Navbar on small screens -->
@@ -58,7 +58,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <!--  <a href="#team" class="w3-bar-item w3-button">Team</a>
     <a href="#work" class="w3-bar-item w3-button">Work</a>
     <a href="#pricing" class="w3-bar-item w3-button">Price</a>-->
-    <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+          <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
+          <a href="#contact" class="w3-bar-item w3-button">Contato</a>
+    <a href="#Experiências" class="w3-bar-item w3-button">Experiências</a>
+      <a href="#Formação" class="w3-bar-item w3-button">Formação</a>
+	  <a href="#Habilidades" class="w3-bar-item w3-button">Habilidades</a>
+      <a href="#Idiomas" class="w3-bar-item w3-button">Idiomas</a>
     </div>
 </div>
 
@@ -155,6 +160,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div><br>
 
     <!-- End Left Column -->
+ 
     </div>
 
     <!-- Right Column -->
@@ -249,7 +255,20 @@ Seja muito bem vindo.</p>
           <p>Sistemas de Informação Universidade Federal da Bahia (UFBA) 2016 trancado 1º semestre</p><br>
         </div>
       </div>
-
+<div class="w3-container" id="contact">
+      <div><label></label><p></p></div>
+      <p>Entre em contato. Envie-me uma mensagem:</p>
+    <form action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/formResponse" method="post"  target="_blank">
+      <p><input class="w3-input w3-padding-16" placeholder="Nome" type="text" required name="entry.2005620554"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Email" required name="entry.1166974658"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Mensagem" required name="entry.839337160"></p>
+      <p>
+        <button class="w3-button w3-light-grey w3-padding-large" type="submit">
+          <i class="fa fa-paper-plane"></i> Enviar
+        </button>
+      </p>
+    </form>
+    </div>
     <!-- End Right Column -->
     </div>
     
@@ -259,33 +278,8 @@ Seja muito bem vindo.</p>
   <!-- End Page Container -->
 </div>
 <!-- Contact Container -->
-<div class="w3-container w3-padding-64 w3-theme-l5" id="contact">
-  <div class="w3-row">
-    <div class="w3-col m5">
-    <div class="w3-padding-16"><span class="w3-xlarge w3-border-teal w3-bottombar">Fale Comigo</span></div>
-      <h3>Endereço</h3>
-      <p>Dúvidas, críticas, sugestões, o que for!</p>
-      <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>  Salvador, BA,  BR</p>
-      <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>  +55 (71) 992074646</p>
-      <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  adrianoraraujo@gmail.com</p>
-    </div>
-    <div class="w3-col m7">
-    <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeV1WF4qHsbJ6QNHXWa-nbDeGKWQ9qLbmQ12wgwZRxfkXci5g/formResponse" method="post" ><!--target="_blank"-->
-      <div class="w3-section">      
-        <label>Nome</label>
-        <input class="w3-input" type="text" name="entry.2005620554" required>
-      </div>
-      <div class="w3-section">      
-        <label>Email</label>
-        <input class="w3-input" type="email" name="entry.1166974658" required>
-      </div>
-      <div class="w3-section">      
-        <label>Mensagem</label>
-        <input class="w3-input" type="text" name="entry.839337160" required>
-      </div>  
-       <button type="submit" class="w3-button w3-right w3-theme">Enviar</button>
-      </form>
-    </div>
+ 
+  
   </div>
 </div>
 
