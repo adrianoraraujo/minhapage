@@ -48,6 +48,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <button class="w3-button" title="Notifications">Meus Projetos <i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
+	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
     </div>
   </div>
  
@@ -59,6 +60,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <a href="#work" class="w3-bar-item w3-button">Work</a>
     <a href="#pricing" class="w3-bar-item w3-button">Price</a>-->
           <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
+		  	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
           <a href="#contact" class="w3-bar-item w3-button">Contato</a>
     <a href="#Experiências" class="w3-bar-item w3-button">Experiências</a>
       <a href="#Formação" class="w3-bar-item w3-button">Formação</a>
@@ -287,7 +289,7 @@ Seja muito bem vindo.</p>
   <p>Minhas redes sociais</p>
   <a class="" href="https://www.facebook.com/adriano.araujo.7169" title="Facebook"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
   <a class="" href="https://www.instagram.com/adrianoaraujo7665/?hl=pt-br" title="Instagram"><i class="fa fa-instagram w3-hover-opacity"></i></a>
-  <a class="" href="https://github.com/adrianoraraujo" title="Github"><i class="fa fa-briefcase w3-hover-opacity"></i></a>
+  <a class="" href="https://github.com/adrianoraraujo" title="Github"><i class="fas fa-chalkboard w3-hover-opacity"></i></a>
  
   <p>Desenvolvido por Adriano Araújo </p>
   <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://adrianoraraujo.herokuapp.com/index.php&digit=style/plain/2/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://magmatranslation.com/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
