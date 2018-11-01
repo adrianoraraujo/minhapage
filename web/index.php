@@ -41,6 +41,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 				  
     </div>
   </div>
+  <script language="JavaScript">
+function abrir(URL) {
+
+  var width = 420;
+  var height = 600;
+
+  var left = 99;
+  var top = 0;
+
+  window.open(URL,'janela', 'width='+width+', height='+height+', top='+top+', left='+left+', scrollbars="no", status="no", toolbar="no", location="no", directories="no", menubar="no", resizable="no", fullscreen=no');
+
+}
+</script>
   <!--<a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
   <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>-->
@@ -49,6 +62,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
 	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
+
+	   <a href="javascript:abrir('chat.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Serv</a>
+	   <a href="javascript:abrir('entrar.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Host</a>
+
+
     </div>
   </div>
  
@@ -66,6 +84,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <a href="#Formação" class="w3-bar-item w3-button">Formação</a>
 	  <a href="#Habilidades" class="w3-bar-item w3-button">Habilidades</a>
       <a href="#Idiomas" class="w3-bar-item w3-button">Idiomas</a>
+	   <a href="javascript:abrir('chat.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Serv</a>
+	   <a href="javascript:abrir('entrar.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Host</a>
     </div>
 </div>
 
