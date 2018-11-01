@@ -41,19 +41,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 				  
     </div>
   </div>
-  <script language="JavaScript">
-function abrir(URL) {
-
-  var width = 420;
-  var height = 600;
-
-  var left = 99;
-  var top = 0;
-
-  window.open(URL,'janela', 'width='+width+', height='+height+', top='+top+', left='+left+', scrollbars="no", status="no", toolbar="no", location="no", directories="no", menubar="no", resizable="no", fullscreen=no');
-
-}
-</script>
   <!--<a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
   <a href="#pricing" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>-->
@@ -62,11 +49,6 @@ function abrir(URL) {
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
 	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
-
-	   <a href="javascript:abrir('chat.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Serv</a>
-	   <a href="javascript:abrir('entrar.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Host</a>
-
-
     </div>
   </div>
  
@@ -84,8 +66,6 @@ function abrir(URL) {
       <a href="#Formação" class="w3-bar-item w3-button">Formação</a>
 	  <a href="#Habilidades" class="w3-bar-item w3-button">Habilidades</a>
       <a href="#Idiomas" class="w3-bar-item w3-button">Idiomas</a>
-	   <a href="javascript:abrir('chat.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Serv</a>
-	   <a href="javascript:abrir('entrar.php');" class="w3-bar-item w3-button">Chat Versão 1.0 Host</a>
     </div>
 </div>
 
@@ -309,7 +289,7 @@ Seja muito bem vindo.</p>
   <p>Minhas redes sociais</p>
   <a class="" href="https://www.facebook.com/adriano.araujo.7169" title="Facebook"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
   <a class="" href="https://www.instagram.com/adrianoaraujo7665/?hl=pt-br" title="Instagram"><i class="fa fa-instagram w3-hover-opacity"></i></a>
-  <a class="" href="https://github.com/adrianoraraujo" title="Github"><i class="fas fa-chalkboard w3-hover-opacity"></i></a>
+  <a class="" href="https://github.com/adrianoraraujo" title="Github"><i class="fa fa-briefcase w3-hover-opacity"></i></a>
  
   <p>Desenvolvido por Adriano Araújo </p>
   <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=https://adrianoraraujo.herokuapp.com/index.php&digit=style/plain/2/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://magmatranslation.com/" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
@@ -322,12 +302,10 @@ function w3_open() {
     x.style.paddingTop = "10%";
     x.style.display = "block";
 }
-
 // Close side navigation
 function w3_close() {
     document.getElementById("mySidebar").style.display = "none";
 }
-
 // Used to toggle the menu on smaller screens when clicking on the menu button
 function openNav() {
     var x = document.getElementById("navDemo");
