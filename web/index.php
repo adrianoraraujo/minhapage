@@ -250,12 +250,12 @@ Seja muito bem vindo.</p>
           <h5 class="w3-opacity"><b>UFBA - Universidade Federal da Bahia</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2016</h6>
           <p>Sistemas de Informação Universidade Federal da Bahia (UFBA) 2016 trancado 1º semestre</p><br>
+          <hr>
         </div>
       <div class="w3-container">
           <h5 class="w3-opacity"><b>FTC -  Faculdade de Tecnologia e Ciências</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008</h6>
           <p> Formação Engenheiro de Controle e Automação</p>
-          <hr>
         </div>
       </div>
 <div class="w3-container" id="contact">
