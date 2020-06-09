@@ -105,7 +105,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
 
           <p class="w3-large" id="Habilidades"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Habilidades</b></p>
-           p>PEGA System</p>
+           <p>PEGA System</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
@@ -117,19 +117,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
-	  p>Angular</p>
+	  <p>Angular</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
-	  p>React</p>
+	  <p>React</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
-	  p>Typescript</p>
+	  <p>Typescript</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
-	  p>Javascript</p>
+	  <p>Javascript</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>	 
@@ -214,13 +214,13 @@ Seja muito bem vindo.</p>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Analista de Sistemas Jr. / Capgemini</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dez 2019 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
-          <p>Desenvolvimento e análise de sistemas para projetos em metodologias ágeis em linguagens como PEGA, python e Java<p>
+          <p>Desenvolvimento e análise de sistemas para projetos em metodologias ágeis em linguagens como PEGA, python e Java.<p>
           <hr>
         </div>	
 	<div class="w3-container">
           <h5 class="w3-opacity"><b>PGF/ENAC - analista/desenvolvedor / Cedido(INFRAERO)</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2012 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
-          <p>Desenvolvimento e análise de sistemas para auxiliar na cobrança de dívidas à União, análise e tratamento de dados<p>
+          <p>Desenvolvimento e análise de sistemas para auxiliar na cobrança de dívidas à União, análise e tratamento de dados.<p>
           <hr>
         </div>	 
         <div class="w3-container">
