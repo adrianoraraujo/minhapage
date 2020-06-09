@@ -47,7 +47,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <div class="w3-dropdown-hover w3-hide-small"  > <!-- w3-hide-small" -->
     <button class="w3-button" title="Notifications">Meus Projetos <i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-	          <a href="https://github.com/adrianoraraujo/minhapage/blob/master/web/FILES/camaelao_v2.7z?raw=true" class="w3-bar-item w3-button">Camaleão v2</a>
+	          <!--<a href="https://github.com/adrianoraraujo/minhapage/blob/master/web/FILES/camaelao_v2.7z?raw=true" class="w3-bar-item w3-button">Camaleão v2</a>-->
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
 	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
     </div>
@@ -105,10 +105,34 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
 
           <p class="w3-large" id="Habilidades"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Habilidades</b></p>
-          <p>Java</p>
+           p>PEGA System</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
+	  <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+	  <p>Java</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+          </div>
+	  p>Angular</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+          </div>
+	  p>React</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+          </div>
+	  p>Typescript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+          </div>
+	  p>Javascript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+          </div>	 
           <p>Php</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
@@ -188,11 +212,17 @@ Seja muito bem vindo.</p>
       <div class="w3-container w3-card w3-white w3-margin-bottom" id="Experiências">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiências Profissionais</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>PSA - Tráfego e Segurança / INFRAERO</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2012 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
-          <p>Fiscalização e inspeção de pátios e pistas, controle de tráfego nos pátios docagem de aeronaves acoplagem e desacoplagem de pontes telescópicas.</p>
+          <h5 class="w3-opacity"><b>Analista de Sistemas Jr. / Capgemini</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dez 2019 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+          <p>Desenvolvimento e análise de sistemas para projetos em metodologias ágeis em linguagens como PEGA, python e Java<p>
           <hr>
-        </div>
+        </div>	
+	<div class="w3-container">
+          <h5 class="w3-opacity"><b>PGF/ENAC - analista/desenvolvedor / Cedido(INFRAERO)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2012 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+          <p>Desenvolvimento e análise de sistemas para auxiliar na cobrança de dívidas à União, análise e tratamento de dados<p>
+          <hr>
+        </div>	 
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Professor Técnico / SENAI</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Out 2011 - Mar 2018</h6>
@@ -243,7 +273,7 @@ Seja muito bem vindo.</p>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>UCSAL - Universidade Católica do Salvador</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Atual</h6>
-          <p>Formação Engenheiro de Software em andamento 5º semestre</p>
+          <p>Formação Engenheiro de Software em andamento 8º semestre</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -252,11 +282,11 @@ Seja muito bem vindo.</p>
           <p>Sistemas de Informação Universidade Federal da Bahia (UFBA) 2016 trancado 1º semestre</p><br>
           <hr>
         </div>
-      <div class="w3-container">
+      <!--<div class="w3-container">
           <h5 class="w3-opacity"><b>FTC -  Faculdade de Tecnologia e Ciências</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008</h6>
           <p> Formação Engenheiro de Controle e Automação</p>
-        </div>
+        </div>-->
       </div>
 <div class="w3-container" id="contact">
       <div><label></label><p></p></div>
