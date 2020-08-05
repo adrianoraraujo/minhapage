@@ -47,7 +47,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <div class="w3-dropdown-hover w3-hide-small"  > <!-- w3-hide-small" -->
     <button class="w3-button" title="Notifications">Meus Projetos <i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-	          <!--<a href="https://github.com/adrianoraraujo/minhapage/blob/master/web/FILES/camaelao_v2.7z?raw=true" class="w3-bar-item w3-button">Camaleão v2</a>-->
+	  <a href="https://github.com/adrianoraraujo/minhapage/blob/master/web/FILES/install.bat?raw=true" class="w3-bar-item w3-button">Flask Base</a>
       <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
 	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
     </div>
