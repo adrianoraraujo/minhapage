@@ -98,7 +98,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
 		<div class="w3-display-bottomcenter w3-container w3-text-black" > <h2>Adriano Araújo</h2></div><p></p>
         <div class="w3-container">
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Consultor  e Desenvolvedor</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Engenheiro de Software e Consultor em Automação</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Salvador, BA BR</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>adrianoraraujo@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+55 (71) 992074646</p>
@@ -107,15 +107,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large" id="Habilidades"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Habilidades</b></p>
            <p>PEGA System</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
 	  <p>Python</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
+	   <p>Shell Script</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
 	  <p>Java</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
 	  <p>Angular</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -127,45 +131,53 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
 	  <p>Typescript</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
           </div>
 	  <p>Javascript</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
-          </div>	 
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>Node js</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">70%</div>
+          </div>
           <p>Php</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
-              <div class="w3-center w3-text-white">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">
+              <div class="w3-center w3-text-white">90%</div>
             </div>
           </div>
           <p>Html</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
           <p>CSS</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:78%">78%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
           <p>Banco de Dados</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:95%">95%</div>
           </div>
           <p>Bootstrap</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
            <p>C++</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
            <p>CAD/CAN/CAE</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
+	  <p>Ladder</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
            <p>Automação e Robótica</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:98%">98%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
           <br>
 
@@ -180,7 +192,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>Japonês</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:30%"></div>
           </div>
           <br>
         </div>
@@ -197,12 +209,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <div class="w3-text-black w3-padding-16">
 <h2 class="w3-text-grey w3-padding-16"></i>Sobre mim... </h2>
-<p>Graduando em Engenharia de Software e com larga experiência nas áreas de automação e robótica, sou um entusiasta da área de IOT e da cultura
+<p>Engenheiro de Software e com larga experiência nas áreas de automação e robótica, sou um entusiasta da área de IOT e da cultura
 Maker. Tenho paixão por criar, e codificar soluções inteligentes para resolver
 problemas diversos. Meu mantra de cada dia é: "Quem não vive para servir, não 
 serve para viver." (Autor Desconhecido).
-Nesse site você irá encontrar um pouco sobre mim e sobre meus projetos,
-disponibilizando soluções e atualizando as informações no menor tempo possível.
 Seja muito bem vindo.</p>
 </div>
 
@@ -220,7 +230,7 @@ Seja muito bem vindo.</p>
 	<div class="w3-container">
           <h5 class="w3-opacity"><b>PGF/ENAC - analista/desenvolvedor / Cedido(INFRAERO)</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2012 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
-          <p>Desenvolvimento e análise de sistemas para auxiliar na cobrança de dívidas à União, análise e tratamento de dados.<p>
+          <p>Desenvolvimento e análise de sistemas para auxiliar na cobrança de dívidas à União, análise e tratamento de dados, BI.<p>
           <hr>
         </div>	 
         <div class="w3-container">
