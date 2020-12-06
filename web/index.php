@@ -283,7 +283,7 @@ Seja muito bem vindo.</p>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>UCSAL - Universidade Católica do Salvador</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Atual</h6>
-          <p>Formação Engenheiro de Software em andamento 8º semestre</p>
+          <p>Bacharel em Engenheiro de Software Conclusão em 2020</p>
           <hr>
         </div>
         <div class="w3-container">
