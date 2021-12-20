@@ -48,7 +48,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <button class="w3-button" title="Notifications">Meus Projetos <i class="fa fa-caret-down"></i></button>     
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
 	  <a href="https://github.com/adrianoraraujo/minhapage/blob/master/web/FILES/install.bat?raw=true" class="w3-bar-item w3-button">Flask Base</a>
-      <a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics</a>
+      <!--<a href="https://mcgyvertronics.github.io/web/" class="w3-bar-item w3-button">McGyvertronics (Página em Manutenção)</a>-->
+	          <a href="#" class="w3-bar-item w3-button">McGyvertronics (Página em Manutenção)</a>
+	    <a href="#" class="w3-bar-item w3-button">Bot Severino - Assistente Cognitivo Para Viagens de Moto (Página em Construção - Em Breve)</a>
 	   <a href="simuladorweb.php" class="w3-bar-item w3-button">Simulador WebCode</a>
     </div>
   </div>
@@ -107,7 +109,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large" id="Habilidades"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Habilidades</b></p>
            <p>PEGA System</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
 	  <p>Python</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -179,12 +181,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
           </div>
+	<p>IA</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:100%">100%</div>
+          </div>
           <br>
 
           <p class="w3-large w3-text-theme" id="Idiomas"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Idiomas</b></p>
           <p>Inglês</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
           </div>
           <p>Espanhol</p>
           <div class="w3-light-grey w3-round-xlarge">
@@ -221,9 +227,15 @@ Seja muito bem vindo.</p>
 
       <div class="w3-container w3-card w3-white w3-margin-bottom" id="Experiências">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiências Profissionais</h2>
-        <div class="w3-container">
+      <div class="w3-container">
+          <h5 class="w3-opacity"><b>Qintess - Especialista Programador I</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Maio 2021 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+          <p>Desenvolvimento e análise de sistemas usando a plataforma PEGA além da criação e execução de testes automatizados, usando metodologias ágeis baseados no SCRUM.<p>
+          <hr>
+        </div>	   
+      <div class="w3-container">
           <h5 class="w3-opacity"><b>Analista de Sistemas Jr. / Capgemini</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dez 2019 - <span class="w3-tag w3-teal w3-round">Atual</span></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dez 2019 - Mai 2021</h6>
           <p>Desenvolvimento e análise de sistemas para projetos em metodologias ágeis em linguagens como PEGA, python e Java.<p>
           <hr>
         </div>	
@@ -282,7 +294,7 @@ Seja muito bem vindo.</p>
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Formação</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>UCSAL - Universidade Católica do Salvador</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Atual</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020</h6>
           <p>Bacharel em Engenheiro de Software Conclusão em 2020</p>
           <hr>
         </div>
@@ -292,11 +304,11 @@ Seja muito bem vindo.</p>
           <p>Sistemas de Informação Universidade Federal da Bahia (UFBA) 2016 trancado 1º semestre</p><br>
           <hr>
         </div>
-      <!--<div class="w3-container">
+      <div class="w3-container">
           <h5 class="w3-opacity"><b>FTC -  Faculdade de Tecnologia e Ciências</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2008</h6>
-          <p> Formação Engenheiro de Controle e Automação</p>
-        </div>-->
+          <p>Bacharel em Engenheiro de Controle e Automação Conclusão em 2008</p>
+        </div>
       </div>
 <div class="w3-container" id="contact">
       <div><label></label><p></p></div>
